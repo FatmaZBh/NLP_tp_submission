@@ -11,11 +11,11 @@ To run all the coding Labs (LAB 2,3,4,5,6,7) you need to download them and uploa
 
 For these specific labs : 
 
-LAB 5 - Text Generation with Classification Models
+**LAB 5 - TEXT GENERATION WITH CLASSIFICATION MODELS**
 
 When running the notebook, replace the cell token = "your_token_here" with the hugging face token you created
 
-LAB 6 - CLUSTERING AND MODELISATION 
+**LAB 6 - CLUSTERING AND MODELISATION**
 
 Before running the notebook, you need to replace "GROQ_API_KEY" with the GROQ api key you created
 
